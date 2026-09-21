@@ -13,4 +13,4 @@ Download the file to run.
 Made with Python
 
 Improvements:
-Make a GUI
+Make a UI
