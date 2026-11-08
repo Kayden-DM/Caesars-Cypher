@@ -17,7 +17,6 @@ Shift Validation — Re-prompts until a valid whole number is entered.
 Try Again — Recursively restarts the process if the user answers y.
 
 ## Technologies Used
-text
 | Technology | Purpose |
 |---|---|
 | Python | Application logic |
